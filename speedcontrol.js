@@ -312,4 +312,3 @@ sophis.VideoControl.insertAll();
 // Ghetto polling for new video elements being added to the page.
 // Necessary for Tuts+ and many non-standard implementations.
 setInterval(sophis.VideoControl.insertAll, 1000);
-
